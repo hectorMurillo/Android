@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante NumCtaPago="2831" LugarExpedicion="TLAQUEPAQUE,JALISCO" metodoDePago="03" tipoDeComprobante="ingreso" total="6006.00" Moneda="MXN" TipoCambio="1.00000" subTotal="6006.00" condicionesDePago="90 DIAS" certificado="MIIEvDCCA6SgAwIBAgIUMDAwMDEwMDAwMDAzMDE2MjU5NDUwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMDkxNjMzNDlaFw0xNzEyMDkxNjMzNDlaMIIBBzEuMCwGA1UEAxMlTEFCT1JBVE9SSU9TIE1BVkVSIERFIE1FWElDTyBTQSBERSBDVjEuMCwGA1UEKRMlTEFCT1JBVE9SSU9TIE1BVkVSIERFIE1FWElDTyBTQSBERSBDVjEuMCwGA1UEChMlTEFCT1JBVE9SSU9TIE1BVkVSIERFIE1FWElDTyBTQSBERSBDVjElMCMGA1UELRMcTE1NMDcxMjAzTEM2IC8gUkFHUjY0MDcxNUxHMDEeMBwGA1UEBRMVIC8gUkFHUjY0MDcxNU1KQ1pURjA2MS4wLAYDVQQLEyVMYWJvcmF0b3Jpb3MgTWF2ZXIgZGUgTWV4aWNvIFNBIGRlIENWMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCJXdKGDv+c83ah0uTSuqpGLoExHuQjLtnnnctRjqn2tLNl87SFbZRTYC8aH+HvkrQ9olbW3ArhfixPBGWGF420Ihpy21IHbESOqebzD3458OcvEtN40cdXQQSRjR9fgx8Q2ZLnIr5gi6eK3NEd8ALsKGkX169iXeLaaCojaitJnQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAxkabpCVUjlTUwnWPaGclpO2MVqcVqW+UU9VSEa81ndyhZ+ToFjCrybjNSF1CEYp1OakKy8s6eX1MdFZSn4MzNTM9JIin4XWTRDlE8lB96TllQY4n45u1SryBAoFfnj4FEGQyU+wm7m1ui51Z+ZeUpupVPV8RA28tPnvIVQr01Hcpr1rQPIwMBrLG5cLMoUy8p53veO1c0bswCL711pSzwfUjva7/7vs1YmGceULw7EncI7N3kBSMMjTjHFAqinQZ1rS8Ct2vQbWqcf5tAfh8IcIar0m6ae6vS3RWBaATSJuALGlQyCoYyZSd0nL0Rh8jR/WTMC5d8eJ5yzosyHll9Q==" noCertificado="00001000000301625945" formaDePago="Pago en una sola exhibición**Consérvese a no más de 30°C  y en lugar seco. Verificar leyendas complementarias en la etiqueta del producto**" sello="S5kQYFpxs2JX5ovyCvYO8wttW6bcqM9nMlluRa1F05H1rZIqMcUFmo05pyZN0y5gbuXkDFnkaDNp4NklN8UtfoNMTJVRCLUvXJN4liT1RF9HzDAAoWELJ2sLAKCVFQ6KKi6TgM7ga/dEL5n6dM552mP2PHmy6nQ/50LpVQdNqNw=" fecha="2017-07-25T15:46:56" folio="1051056418" serie="LM" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd" xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cfdi:Emisor nombre="LABORATORIOS MAVER DE MEXICO SA DE CV" rfc="KYO123123123">
+		<cfdi:DomicilioFiscal codigoPostal="45593" pais="MÉXICO" estado="JALISCO" municipio="TLAQUEPAQUE" colonia=" COL. ALAMO INDUSTRIAL" noExterior="2099" calle="CALLE CALDERA" />
+		<cfdi:ExpedidoEn codigoPostal="45593" pais="MÉXICO" estado="JALISCO" municipio="TLAQUEPAQUE" noExterior="2099" calle="CALDERA No." />
+		<cfdi:RegimenFiscal Regimen="Régimen General PM" />
+	</cfdi:Emisor>
+	<cfdi:Receptor nombre="Difarmer, S.A. de C.V." rfc="DIF9310055W1">
+		<cfdi:Domicilio codigoPostal="80200" pais="MÉXICO" estado="SINALOA" municipio="Culiacán" localidad="Culiacán" colonia="Col. J. Almada" noExterior="Pte." calle="José Ma. Pino Suárez No. 1050" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto importe="6006.00" valorUnitario="17.16000" descripcion=" Tenescan V Crema 20g" noIdentificacion="40184" unidad="PZA" cantidad="350" />
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="0.00">
+		<cfdi:Traslados>
+			<cfdi:Traslado importe="0.0" tasa="0" impuesto="IVA" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="p9b7JSM6mRCg5/RhxEKqbIY6KlE1n9l5HZsG0twQvgJjAyXBjrK7Vz+thROj+AfFaR2BalJBModpa06o2tGf9a3z3G/vcFyHRyGwFonPYvoxcOo/Iw9D9tgUEt6x+jDu4pRWODQfgNH6vbfwQh51gGf6XKbz7B9yKEXhsalPNwGPn/fMsaNJJIYoMBHppUv1pbEM1FiQcKcnotaN40yweNu74Xu+oKBX+TeR9c9rgpLz5YSyq6GaWfcyKx8orHn1kztGVmRh88SGmF/jH2ppI4Ms7Rg5f0erd4NXemL59QVkAMpNVJ1z8s40pP47ezkZA47Znnzuiabm7dV0v+lBiw==" noCertificadoSAT="00001000000404614920" selloCFD="cBqOkybXK/lxFk/oTkK41iHhLF+vAswb+J1UA4UI4jeb3j24x+sav7jGfvCt1wKb2o1Sfgm0Y8u/LRno2m1dyUf0+pU4Zwd4cAZDhHWHbbW29fIoo5PU6UPCU9B0qLx/tefERzRcID8yw48A7xgx73himKDrO2NfImbOst+5c8A=" FechaTimbrado="2017-07-21T14:09:03" UUID="15127fe8-cb47-49aa-8c6f-66740eda50ff" version="1.0" />
+	</cfdi:Complemento>
+	<cfdi:Addenda>
+		<cfdi:Compra OrdenCompra="5" Plazo="30">
+			<cfdi:Productos>
+				<cfdi:Producto codigoproducto="40184" descripcion=" Tenescan V Crema 20g" codigodebarras="7502009740374" cantidad="350" preciounitario="17.16000" lote="123456" fechacaducidad="JUN 20" numerocajas="10" uom="PZA" />
+			</cfdi:Productos>
+		</cfdi:Compra>
+	</cfdi:Addenda>
+</cfdi:Comprobante>
